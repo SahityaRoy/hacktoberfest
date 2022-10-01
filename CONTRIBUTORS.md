@@ -198,3 +198,9 @@
 - Bio: Final Year Computer Science Student from Nepal :)
 - GitHub: [Sambhav](https://github.com/LordSambhav/)
 
+
+#### Name: [Salami Korede](https://github.com/Kordedekehine)
+- Place: Lagos
+- Bio: Final Year Philosophy Student from Lagos. A Java Developer)
+- GitHub: [Salami Korede](https://github.com/Kordedekehine)
+
